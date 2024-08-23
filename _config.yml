@@ -21,9 +21,9 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Adam Banninga                                
-your_link                                 : https://apps.apple.com/us/app/best-loan-calculator/id6502383774                     
-your_city                                 : Grand Rapids                                
-email_address                             : emil.baehr@gmail.com
+your_link                                 : https://maxpricepro.com/about-us                     
+your_city                                 : Grand Rapids, Michigan                                
+email_address                             : support@tronbasic.com
 #facebook_username                         :                                           
 #instagram_username                        : 
 #twitter_username                          : 
@@ -36,8 +36,8 @@ email_address                             : emil.baehr@gmail.com
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Solve
+    description                           : Effortlessly solve loan variables with our intuitive app
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview
