@@ -83,7 +83,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/25/59/aa2559f3-a52d-2ee8-1310-afa4dac54108/9b77340e-bf17-46ee-bc7a-c8efaace3547_01.png/314x0w.webp                    # Replace with alternative image path or image URL.
+cover_image                               : /assets/screenshot/314x0w.webp                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
