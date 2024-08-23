@@ -111,3 +111,7 @@ I'd love to see the sites you create using this little tool.
 
 ## License
 [MIT License](LICENSE)
+
+## Assistance 
+For assistance with editing, cloning, or maintaining a Jekyll-based website, please contact Jacob Gonzales. 
+He can be reached at jacob@b2vmarketing.com
