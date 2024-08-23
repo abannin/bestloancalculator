@@ -28,13 +28,13 @@ Designing
 
 <br>
 
-________
-<br>
-
 ## Version 2.2.2
 -Decimal point reduced in payments field to two.
+
 -In app review added.
+
 -Color change after donation.
+
 -Donate.
 
 <br>
